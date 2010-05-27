@@ -78,7 +78,7 @@ BEGIN {
         binary      => q{Binary files, as defined by Perl's -B op (default: off)},
         cc          => [qw( c h xs )],
         cfmx        => [qw( cfc cfm cfml )],
-        cpp         => [qw( cpp cc cxx m hpp hh h hxx )],
+        cpp         => [qw( cpp cc cxx m hpp hh h hxx inl )],
         cuda        => [qw( cu cuh gpu ptx cubin )],
         csharp      => [qw( cs )],
         css         => [qw( css )],
